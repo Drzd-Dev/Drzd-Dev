@@ -7,11 +7,10 @@
 </div>
 
 ###
-[![Discord Presence](https://lanyard.cnrad.dev/api/745205211697774665?animated=false&showDisplayName=true&theme=dark)](https://discord.com/users/745205211697774665)
+[<img src="https://lanyard.cnrad.dev/api/745205211697774665?borderRadius=50px&showDisplayName=true&theme=dark&idleMessage=Drzd%20Development%20&bg=0c0d24" alt="Discord Presence" height="200" width="400" />](https://discord.com/users/745205211697774665)
+
 ##
 <br clear="both">
 
-<div align="right">
-</div>
 
 ###
